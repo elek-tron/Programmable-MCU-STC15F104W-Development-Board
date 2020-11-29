@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{264C1B4D-1F7F-425E-9EAB-155B5C4A6868}"
+	ProjectSection(SolutionItems) = preProject
+		src\main.c = src\main.c
+		src\stc8.h = src\stc8.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0BE6408-4FE7-4C40-97C3-FE3FC4B6697C}"
+	ProjectSection(SolutionItems) = preProject
+		Makefile = Makefile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
