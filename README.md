@@ -18,3 +18,5 @@ Needs a drop of solder to connect all solder islands in the corner of the pcb ei
 SDCC    http://sdcc.sourceforge.net/
 Programmer  http://www.stcmicro.com/rjxz.html
 
+![Frontside](./Pictures/Front.jpg)
+![Backside](./Pictures/Back.jpg)
