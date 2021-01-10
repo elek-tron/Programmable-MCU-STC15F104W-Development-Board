@@ -26,10 +26,10 @@ http://www.stcmicro.com/rjxz.html
 # Pictures
 ![Frontside](./Pictures/Front.jpg)
 
-![Backside]('./Pictures/Back.jpg')
+![Backside](./Pictures/Back.jpg)
 
 To understand the hidden connections, removed the crystal:
-![wo crystal](./Pictures/wo\ crystal.jpg)
+![wo crystal](./Pictures/wo%20crystal.jpg)
 
 And drawn the two connections between the usb and processor parts of the board.
-![wo crystal TxD RxD drawn](./Pictures/wo\ crystal\ TxD\ RxD\ drawn.jpg)
+![wo crystal TxD RxD drawn](./Pictures/wo%20crystal%20TxD%20RxD%20drawn.jpg)
