@@ -13,7 +13,7 @@ Needs a drop of solder to connect all 2 or 3 solder islands in the corner of the
 
 # Software requirements:
 - SDCC (free to use compiler w/o any limits like keil)
-- AtmelStudio 7 (not needed, but has C beautyfier, editor, make, etc...)
+- AtmelStudio 7 (not needed, but has integrated environment, editor, C beautyfier, tools like make, etc...)
 - stc-isp-15xx-v6.88.exe (to program the STC processor)
 
 # Links:
