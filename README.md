@@ -9,7 +9,7 @@ This repository holds:
 
 # Preparation:
 Needs a drop of solder to connect all solder islands in the corner of the pcb either on the 5V or 3.3V before using it. 
-![CH340 voltage selection](./Pictures/CH340\ voltage\ selection.jpg) 
+![CH340 voltage selection]("./Pictures/CH340\ voltage\ selection.jpg")
 
 # Software requirements:
 - SDCC (free to use compiler w/o any limits like keil)
@@ -26,7 +26,7 @@ http://www.stcmicro.com/rjxz.html
 # Pictures
 ![Frontside](./Pictures/Front.jpg)
 
-![Backside](./Pictures/Back.jpg)
+![Backside]('./Pictures/Back.jpg')
 
 To understand the hidden connections, removed the crystal:
 ![wo crystal](./Pictures/wo\ crystal.jpg)
