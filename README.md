@@ -8,8 +8,8 @@ This repository holds:
 - A tiny demo project.
 
 # Preparation:
-Needs a drop of solder to connect all solder islands in the corner of the pcb either on the 5V or 3.3V before using it. 
-![CH340 voltage selection](./Pictures/CH340%20voltage%20selection.jpg)
+Needs a drop of solder to connect all 2 or 3 solder islands in the corner of the pcb either on the 3.3V or 5V to select the voltage before using it. 
+![Voltage selection](./Pictures/Voltage%20selection.jpg)
 
 # Software requirements:
 - SDCC (free to use compiler w/o any limits like keil)
